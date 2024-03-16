@@ -1,8 +1,0 @@
-
-lll = Mapear(datos = datosPorDepto, ColoresPartido = ColoresPartido, Mapa = departamentos)
-
-
-lll$Mapa %>% variable.names(.)
-
-
-lll$Datos %>% variable.names(.)
