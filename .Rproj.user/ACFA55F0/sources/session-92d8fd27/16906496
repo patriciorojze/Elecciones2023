@@ -1,0 +1,27 @@
+{
+    "id": "16906496",
+    "path": "~/Apps/EleccionesReduccion/server.R",
+    "project_path": "server.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1709676728920.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "452,4",
+        "scrollLine": "0"
+    },
+    "folds": "6|32|40|2|\n42|19|60|2|\n62|32|101|2|\n105|20|176|2|\n202|29|206|2|\n208|37|224|2|\n228|21|230|2|\n232|25|262|2|\n266|22|268|2|\n270|26|302|2|\n308|12|366|4|\n312|86|320|4|\n324|36|326|4|\n326|12|328|4|\n332|40|346|4|\n386|32|405|2|\n456|21|524|2|\n526|30|528|2|\n530|13|693|2|\n532|45|594|2|\n534|32|549|4|\n596|33|620|2|\n622|34|624|2|\n626|35|642|2|\n644|39|653|2|\n655|35|677|2|\n679|33|692|2|\n696|27|706|2|\n708|31|719|2|\n723|37|779|2|\n781|30|783|2|\n785|33|787|2|\n791|24|796|2|\n798|28|812|2|\n",
+    "lastKnownWriteTime": 1710601025,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1710601025314,
+    "read_only": false,
+    "read_only_alternatives": []
+}

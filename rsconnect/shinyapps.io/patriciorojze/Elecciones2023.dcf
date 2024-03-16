@@ -1,0 +1,13 @@
+name: Elecciones2023
+title: Elecciones2023
+username: patriciorojze
+account: patriciorojze
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11435991
+bundleId: 8377938
+url: https://patriciorojze.shinyapps.io/Elecciones2023/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
