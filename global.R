@@ -18,7 +18,7 @@ library(png)
 #devtools::install_github('Chrisjb/basemapR')
 library(basemapR)
 
-ActivarActualizacion = FALSE #Activar en desarrollo
+ActivarActualizacion = TRUE #Activar en desarrollo
 
 ### Funciones auxiliares ----
 

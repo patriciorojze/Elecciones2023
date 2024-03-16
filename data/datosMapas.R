@@ -880,7 +880,7 @@ provincias = provincias %>% select(Provincia, NAM)
 departamentos = departamentos %>% select(Provincia, NAM)
 
 for (i in names(MapaCircuitos)){
-  MapaCircuitos[[i]] = MapaCircuitos[[i]] %>% select(Provincia, NAM, departamen)
+  MapaCircuitos[[i]] = MapaCircuitos[[i]] %>% select(Provincia, NAM, departamen, circuito)
 } 
 
 ### Guardar ----

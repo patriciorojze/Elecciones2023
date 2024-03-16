@@ -86,7 +86,7 @@ CambioLugares = function(datos) {
     ))
   
 }
-
+ 
 CambioCircuitos = function(datos){
   
   ParaProcesoCordoba = c(

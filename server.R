@@ -453,7 +453,6 @@ server <- function(input, output) {
   })
   
   ## Grafico Barra ----
-  
   Barras = reactive({
     
     datosBarra = MapaDepartamentos()$Datos %>%
